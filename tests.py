@@ -1,4 +1,5 @@
 import collections
+collections.Iterable = collections.abc.Iterable
 from collections import OrderedDict
 import copy
 import pandas as pd
